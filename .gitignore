@@ -11,6 +11,10 @@ node_modules/
 .DS_Store
 Thumbs.db
 
+# 配置文件（含密钥，禁止提交）
+configs/*.json
+configs/claude-skills/
+
 # IDE
 .vscode/
 .idea/
