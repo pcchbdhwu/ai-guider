@@ -1,0 +1,13 @@
+{
+  "dashboard": {
+    "token": "9776308bcd6fa24cfe82b19af54d65254e3295b7a7356992d470cd9c86d1ab28"
+  },
+  "lang": "zh-CN",
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "D:/AI引路人项目", "D:/claude使用"],
+      "description": "允许 Reasonix 读取和操作 D盘项目文件"
+    }
+  }
+}
